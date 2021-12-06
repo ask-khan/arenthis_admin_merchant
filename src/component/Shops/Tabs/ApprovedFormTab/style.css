@@ -1,0 +1,11 @@
+.slick-track {
+    width: 100% !important;
+    display: flex;
+};
+
+.slick-track div:nth-child(odd) {
+    padding-right: 20px !important;
+}
+.slick-track div:nth-child(even) {
+    padding-left: 20px !important;
+}

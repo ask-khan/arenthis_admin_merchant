@@ -1,0 +1,9 @@
+//**********Approval Form***********\
+export const APPROVAL_FORM_REQUEST = 'APPROVAL_FORM_REQUEST';
+export const APPROVAL_FORM_SUCCESS = 'APPROVAL_FORM_SUCCESS';
+export const APPROVAL_FORM_FAIL = 'APPROVAL_FORM_FAIL'; 
+
+// ***********************APPROVED DETAIL********************
+export const APPROVED_DETAIL_REQUEST = 'APPROVED_DETAIL_REQUEST';
+export const APPROVED_DETAIL_SUCCESS = 'APPROVED_DETAIL_SUCCESS';   
+export const APPROVED_DETAIL_FAIL = 'APPROVED_DETAIL_FAIL';   
